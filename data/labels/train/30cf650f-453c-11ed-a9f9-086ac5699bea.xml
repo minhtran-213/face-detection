@@ -1,0 +1,26 @@
+<annotation>
+	<folder>face</folder>
+	<filename>30cf650f-453c-11ed-a9f9-086ac5699bea.jpg</filename>
+	<path>D:\Learning\FPT\AIT\Tensorflow\face_recognition\data\images\face\30cf650f-453c-11ed-a9f9-086ac5699bea.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>179</ymin>
+			<xmax>408</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>
